@@ -1,0 +1,7 @@
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/RibbonConfig.java
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/helper/Constants.java
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/helper/DefaultProfileHelper.java
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/RestTemplateConfig.java
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/SwaggerConfig.java
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/config/SwaggerResourceConfig.java
+/Users/ironpoa/Documents/GitHub/spring-boot-zuul/src/main/java/br/com/southsystem/workshop/zuul/App.java

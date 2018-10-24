@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ironpoa
+Build-Jdk: 9.0.1
+Implementation-Title: spring-boot-zuul
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: br.com.southsystem.workshop.zuul
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ zuul/
+Created-By: Maven Integration for Eclipse
+
